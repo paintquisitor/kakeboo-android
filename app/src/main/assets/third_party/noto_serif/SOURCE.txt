@@ -1,0 +1,4 @@
+Noto Serif CJK JP Regular — Copyright Adobe and Google
+https://github.com/notofonts/noto-cjk/tree/main/Serif
+SIL Open Font License 1.1 (see LICENSE.txt).
+The splash illustration uses vector outlines of 家計簿 from this font.

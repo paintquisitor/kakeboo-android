@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Kakebo" parent="Base.Theme.Kakebo">
+        <item name="android:windowSplashScreenBackground">@color/launch_background</item>
+        <!-- Compose supplies the full animated illustration on the first app frame. -->
+        <item name="android:windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+    </style>
+</resources>

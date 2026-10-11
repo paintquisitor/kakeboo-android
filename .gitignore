@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+.DS_Store
+*.jks
+*.keystore
+captures/
+/flutter/
+/output/
+/harness/
+/docs/
+/AGENTS.md
